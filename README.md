@@ -46,3 +46,4 @@ see RECORD dir please → [click](./RECORD)
 #### WeChat Official Accounts
 *Charles_pikachu*  
 ![img](pikachu.jpg)
+[![Run on Repl.it](https://repl.it/badge/github/CharlesPikachu/Games)](https://repl.it/github/CharlesPikachu/Games)
